@@ -147,11 +147,6 @@ function oneWord(){
 }
 
 
-// function logKey(e) {
-//     typeLetter(`${e.code}`);
-// }
-
-
 function convertToEnglish(letter) {
     switch(letter) {
         case "ז":
